@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irvingpichardo" alt="irvingpichardo" /></a> </p>
 
-- 🔭 I’m currently working on **ML & AI**
+- 🔭 I’m currently working on **Web development, Data Analysis, Database management, ML & AI**
 
 - 🌱 I’m currently learning **Python, ML, Algoritms**
 
@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with **NLP and ML**
 
-- 💬 Ask me about **HTML, CSS, Javascript, IoT, Data Science**
+- 💬 Ask me about **HTML, CSS, Python, IoT, Data Science, Data Analysis**
 
 - 📫 How to reach me **jorgecristobal@uagro.mx**
 
-- 📄 Know about my experiences [I worked in ML and development web projects](I worked in ML and development web projects)
+- 📄 Know about my experiences [I worked in ML and web development projects](I worked in ML and development web projects)
 
-- ⚡ Fun fact **I like watch movies, listen to music and read.**
+- ⚡ Fun fact **I enjoy watching movies, traveling, taking pictures, listening to music, writing short stories, reading e-books and comics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
