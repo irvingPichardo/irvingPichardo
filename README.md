@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, ML, Algoritms**
 
-- 👯 I’m looking to collaborate with **others engineers**
+- 👯 I’m looking to collaborate with **others engineers and other programming enthusiasts**
 
 - 🤝 I’m looking for help with **NLP and ML**
 
