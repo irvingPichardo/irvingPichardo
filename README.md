@@ -1,9 +1,14 @@
+![MasterHead](https://miro.medium.com/max/1400/1*TPy4pf_P1QUNVZqzngjliA.gif)
+
 <h1 align="center">Hi 👋, I'm Irving Pichardo</h1>
 <h3 align="center">A passionate Software Development Engineer from Mexico 🇲🇽</h3>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irvingpichardo&label=Profile%20views&color=0e75b6&style=flat" alt="irvingpichardo" /> </p>
+<img align="right" alt="Coding" width="390" src="https://miro.medium.com/max/1400/1*bhFifratH9DjKqMBTeQG5A.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irvingpichardo" alt="irvingpichardo" /></a> </p>
+
+<h3 align="left">About me:</h3>
+
 
 - 🔭 I’m currently working on **Web development, Data Analysis, Database management, ML & AI**
 
@@ -17,9 +22,11 @@
 
 - 📫 How to reach me **jorgecristobal@uagro.mx**
 
-- 📄 Know about my experiences [I worked in ML and web development projects](I worked in ML and development web projects)
+- 📄 Know about my experiences: **I worked in ML and web development projects.**
 
-- ⚡ Fun fact **I enjoy watching movies, traveling, taking pictures, listening to music, writing short stories, reading e-books and comics.**
+- ⚡ Fun fact: **I enjoy watching movies, traveling, taking pictures, listening to music, writing short stories, reading e-books and comics.**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irvingpichardo" alt="irvingpichardo" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,3 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irvingpichardo&show_icons=true&locale=en" alt="irvingpichardo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irvingpichardo&" alt="irvingpichardo" /></p>
+
+<img align="left" alt="l" width="390" src="https://miro.medium.com/max/960/1*oxypjX22FEfgQo4MQzWNbg.gif">
+
