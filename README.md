@@ -10,13 +10,13 @@
 <h3 align="left">About me:</h3>
 
 
-- 🔭 I’m currently working on **Web development, Data Analysis, Database management, ML & AI**
+- 🔭 I’m currently working on **Web development, Data Analysis, Database management, ML, IA, Prompt Engineering & LLM**
 
-- 🌱 I’m currently learning **Python, ML, Algoritms**
+- 🌱 I’m currently learning **Python, ML, Algoritms, Prompt Engineering & LLM**
 
 - 👯 I’m looking to collaborate with **others engineers and programming enthusiasts**
 
-- 🤝 I’m looking for help with **NLP and ML**
+- 🤝 I’m looking for help with **LLM, NLP and ML**
 
 - 💬 Ask me about **HTML, CSS, Python, IoT, Data Science, Data Analysis**
 
