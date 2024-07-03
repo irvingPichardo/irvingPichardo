@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*TPy4pf_P1QUNVZqzngjliA.gif)
 
 <h1 align="center">Hi 👋, I'm Irving Pichardo</h1>
-<h3 align="center">A passionate Software Development Engineer from Mexico 🇲🇽</h3>
+<h3 align="center">A passionate Software Development Engineer 👷‍♂️ from Mexico 🇲🇽</h3>
 <br>
 
 <img align="right" alt="Coding" width="390" src="https://miro.medium.com/max/1400/1*bhFifratH9DjKqMBTeQG5A.gif">
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Web development, Data Analysis, Database management, ML, IA, Prompt Engineering & LLM**
 
-- 🌱 I’m currently learning **Python, ML, Algoritms, Prompt Engineering & LLM**
+- 🌱 I’m currently learning **Python, ML, Algoritms, Prompt Engineering & LLM** 👨‍🎓
 
 - 👯 I’m looking to collaborate with **others engineers and programming enthusiasts**
 
