@@ -58,6 +58,8 @@
 - 🎓 **Microsoft UAIFET** – *Use AI for Everyday Tasks* (2025)
 - 🎓 **Microsoft GSWAIA** – *Getting Started with AI Agents in GitHub Copilot* (2025)
 - 🎓 **Oracle APEX Cloud Developer** – Web-based DB development with APEX (2025)
+- 🎓 **Oracle AI Vector Search** – Certified Professional (2025)
+- - 🎓 **Oracle Data Science** – Certified Professional (2025)
 
 ---
 
